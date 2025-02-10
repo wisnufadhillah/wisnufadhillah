@@ -1,4 +1,4 @@
-# Hi there, I'm Wisnu Fadhillah 👋
+<h1 align="center">Hi there, I'm Wisnu Fadhillah 👋</h1>
 
 ## 👨‍💻 Tentang Saya
 Hai! Saya Wisnu Fadhillah, mahasiswa Sistem Informasi yang memiliki minat di dunia pengembangan web. Saya sedang mempelajari pengembangan frontend dan backend, berusaha keras untuk membangun aplikasi web yang lancar, efisien, dan berpusat pada pengguna. Perjalanan belajar saya didorong oleh rasa ingin tahu, eksperimen, dan dorongan untuk menyempurnakan keterampilan saya satu proyek dalam satu waktu.
