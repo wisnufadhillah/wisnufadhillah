@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Wisnu Fadhillah 👋</h1>
 
-## 👨‍💻 Tentang Saya
-Hai! Saya Wisnu Fadhillah, mahasiswa Sistem Informasi yang memiliki minat di dunia pengembangan web. Saya sedang mempelajari pengembangan frontend dan backend, berusaha keras untuk membangun aplikasi web yang lancar, efisien, dan berpusat pada pengguna. Perjalanan belajar saya didorong oleh rasa ingin tahu, eksperimen, dan dorongan untuk menyempurnakan keterampilan saya satu proyek dalam satu waktu.
+## 👨‍💻 About Me
+Hai! I am Wisnu Fadhillah, an Information Systems student who is interested in the world of web development. I studied Frontend and Backend development, trying to build smooth, efficient, and user-centric web applications. My learning journey is driven by curiosity, experimentation, and a drive to perfect my skills one project at a time.
 
 ## 🌱 Saat Ini Sedang Belajar
-Saya fokus untuk memperkuat fondasi saya dalam Pengembangan Web, termasuk:
+I focused on strengthening my foundation in Web Development, including:
 
-- Membangun aplikasi dinamis berbasis data dengan PHP dan MySQL
-- Menjelajahi kekuatan framework Laravel dan Codeigniter untuk pengembangan backend
-- Terus meningkatkan keterampilan frontend dengan HTML, CSS, dan JavaScript
-- Memahami cara mengintegrasikan frontend dan backend dengan mulus dalam proyek tumpukan penuh
+- Build dynamic data-driven applications with PHP and MySQL
+- Explore the power of Laravel and Codeigniter frameworks for backend development
+- Continuously improve frontend skills with HTML, CSS, and JavaScript
+- Understand how to seamlessly integrate frontend and backend in a full stack project
 
 ## 🚀 Tech Stack Favorit
 
