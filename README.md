@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 Hai! I am Wisnu Fadhillah, an Information Systems student who is interested in the world of web development. I studied Frontend and Backend development, trying to build smooth, efficient, and user-centric web applications. My learning journey is driven by curiosity, experimentation, and a drive to perfect my skills one project at a time.
 
-## 🌱 Saat Ini Sedang Belajar
+## 🌱 Currently Studying
 I focused on strengthening my foundation in Web Development, including:
 
 - Build dynamic data-driven applications with PHP and MySQL
